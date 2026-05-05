@@ -18,3 +18,6 @@ No installation required (works in browser)
 Lightweight and open-source
 Designed for speed and simplicity
 Stop typing. Start scanning.
+
+You can try demo:
+https://sendstring.tech/
