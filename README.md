@@ -1,4 +1,8 @@
 
+
+![App Screenshot](/assets/demo.gif)
+
+
 Send String is a simple, no-friction tool that lets you scan barcodes with your phone and instantly send the decoded text to your computer browser.
 
 No cables. No apps. No typing long codes manually.
